@@ -4,8 +4,11 @@ Adaptive, looking forward to start career in web development and knowing about n
 
 Skills:
 Programming languages: Python
+
 Scripting languages: HTML, CSS, JavaScript
+
 Frameworks and Libraries: Django, React, Bootstrap
+
 Others: Git, Agile(Scrum) , Netlify, Heroku
 
 
