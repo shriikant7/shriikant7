@@ -1,5 +1,12 @@
 ### Hi there 👋
-I'm currently learning web development
+Learning Web Development.
+Adaptive, looking forward to start career in web development and knowing about new technologies.
+
+Skills:
+Programming languages: Python
+Scripting languages: HTML, CSS, JavaScript
+Frameworks and Libraries: Django, React, Bootstrap
+Others: Git, Agile(Scrum) , Netlify, Heroku
 
 
 <!--
