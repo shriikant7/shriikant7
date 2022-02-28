@@ -3,11 +3,10 @@ Learning Web Development.
 Adaptive, looking forward to start career in web development and knowing about new technologies.
 
 Skills:
-Programming languages: Python
 
-Scripting languages: HTML, CSS, JavaScript
+Scripting programming languages: HTML, CSS, JavaScript
 
-Frameworks and Libraries: Django, React, Bootstrap
+Frameworks and Libraries:  React, Bootstrap
 
 Others: Git, Agile(Scrum) , Netlify, Heroku
 
