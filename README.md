@@ -1,12 +1,12 @@
 ### Hi there 👋
 Learning Web Development.
-Adaptive, looking forward to start career in web development and knowing about new technologies.
+Adaptive, looking forward to start career in java development and knowing about new technologies.
 
 Skills:
 
 Scripting programming languages: HTML, CSS, JavaScript
 
-Frameworks and Libraries:  React, Bootstrap
+Frameworks and Libraries:  Spring Boot, Hibernet, Bootstrap
 
 Others: Git, Agile(Scrum) , Netlify, Heroku
 
